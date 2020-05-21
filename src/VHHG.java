@@ -54,7 +54,7 @@ String vartext11=" ";
 String vartext2="Вараксин Леонид Дмитриевич";
 String vartext21=" ";
 String vartext3="Хайруллин Шамиль Динарович";
-String vartext31=" ";
+String vartext31="shlynxs@gmail.com";
 String vartext4="Гусейнов Бекболат Эльдарович";
 String vartext41=" ";
 
