@@ -50,7 +50,7 @@ okno = new JFrame("panel");
 
 String vartext="  ";
 String vartext1="Хасанов Артем Азатович";
-String vartext11=" ";
+String vartext11="Artyom1o2@yandex.ru";
 String vartext2="Вараксин Леонид Дмитриевич";
 String vartext21=" ";
 String vartext3="Хайруллин Шамиль Динарович";
