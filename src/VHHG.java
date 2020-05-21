@@ -56,7 +56,7 @@ String vartext21=" ";
 String vartext3="Хайруллин Шамиль Динарович";
 String vartext31=" ";
 String vartext4="Гусейнов Бекболат Эльдарович";
-String vartext41=" egus10@yandex.ru ";
+String vartext41="egus10@yandex.ru";
 
 text = new JLabel(vartext);
 text1 = new JLabel(vartext1 + " - "+ vartext11);
