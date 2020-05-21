@@ -52,9 +52,9 @@ String vartext="  ";
 String vartext1="Хасанов Артем Азатович";
 String vartext11=" ";
 String vartext2="Вараксин Леонид Дмитриевич";
-String vartext21=" ";
+String vartext21="blinkstrikeblinkstrike@mail.ru";
 String vartext3="Хайруллин Шамиль Динарович";
-String vartext31=" ";
+String vartext31="shlynxs@gmail.com";
 String vartext4="Гусейнов Бекболат Эльдарович";
 String vartext41="egus10@yandex.ru";
 
@@ -107,6 +107,7 @@ course.addItemListener(new ItemListener() {
 });
 
 JButton informationbutton=new JButton("Информация");
+informationbutton.addActionListener(new NewClassLR4());
 
 
 /*String Path = "https://sun1-26.userapi.com/OzHXNg7esGbTvOZqhzHwA4ef_N59ZrVSsM2Fmg/Uov_djgblYo.jpg";
@@ -152,7 +153,7 @@ okno.add(p);
 
 // установить размер кадра
 
-okno.setSize(440, 500);
+okno.setSize(440, 550);
 
 okno.show();
 
