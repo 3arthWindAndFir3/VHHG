@@ -107,6 +107,7 @@ course.addItemListener(new ItemListener() {
 });
 
 JButton informationbutton=new JButton("Информация");
+informationbutton.addActionListener(new NewClassLR4());
 
 
 /*String Path = "https://sun1-26.userapi.com/OzHXNg7esGbTvOZqhzHwA4ef_N59ZrVSsM2Fmg/Uov_djgblYo.jpg";
@@ -152,7 +153,7 @@ okno.add(p);
 
 // установить размер кадра
 
-okno.setSize(440, 500);
+okno.setSize(440, 550);
 
 okno.show();
 
